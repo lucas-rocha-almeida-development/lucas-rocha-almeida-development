@@ -1,4 +1,6 @@
-### Olá! Eu sou Lucas Almeida 🐺🐺 👍👍
+### Olá! Eu sou Lucas Almeida, atualmente estou cursando análise desenvolvimento de sistemas e tenho como objetivo principal atuar na área da tecnologia.Apaixonado por futebol e counter strike.
+
+ 🐺🐺 👍👍
 <br>
 
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
@@ -24,6 +26,4 @@
 <img align="center" alt="Vscode" target="_blank" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 <br>
-Olá, me chamo Lucas Almeida e atualmente estou cursando análise desenvolvimento de sistemas e tenho como objetivo
-principal atuar na área da tecnologia.
-Apaixonado por futebol e counter strike.
+
