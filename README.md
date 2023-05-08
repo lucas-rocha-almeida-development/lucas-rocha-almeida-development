@@ -1,4 +1,4 @@
-### Olá! Eu sou Lucas Almeida, atualmente estou cursando análise desenvolvimento de sistemas e tenho como objetivo principal atuar na área da tecnologia.Apaixonado por futebol e counter strike.
+### Olá! Eu sou Lucas Almeida, atualmente sou estudante de engenharia de software e tenho como objetivo principal atuar na área da tecnologia.Apaixonado por futebol e counter strike.
 
  🐺🐺 👍👍
 <br>
